@@ -19,10 +19,10 @@ The model is trained using a **Random Forest Classifier** and exported for **mob
 <img width="611" height="472" alt="2" src="https://github.com/user-attachments/assets/7ad359af-62f9-48b3-83e4-0066b40c1e0b" />
 
 ### Confusion
-<img width="736" height="402" alt="3" src="https://github.com/user-attachments/assets/addda088-d02f-43b4-b7ba-2d16370b90ca" />
+<img width="444" height="378" alt="4" src="https://github.com/user-attachments/assets/b8a37cc8-988e-4618-88c1-0a75307bcafd" />
 
 ### Feature Importance
-<img width="444" height="378" alt="4" src="https://github.com/user-attachments/assets/b8a37cc8-988e-4618-88c1-0a75307bcafd" />
+<img width="736" height="402" alt="3" src="https://github.com/user-attachments/assets/addda088-d02f-43b4-b7ba-2d16370b90ca" />
 
 ---
 
